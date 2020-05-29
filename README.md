@@ -12,12 +12,12 @@
     dados SQL ou executar comandos SQL, devem ser feitas por classes
      DAO.</p>
     
-     <p>Alguns links Úteis:</p>
+<p>Alguns links Úteis:</p>
 
-     <p><a href="https://www.java.com/pt_BR/">https://www.java.com/pt_BR/</a></p>
-     <p><a href="https://www.mysql.com/">https://www.mysql.com/</a></p>
-     <p><a href="https://spring.io/projects/spring-boot">https://spring.io/projects/spring-boot</a></p>
-     <p><a href="https://www.eclipse.org/downloads/">https://www.eclipse.org/downloads/</a></p>
-     <p><a href="https://www.devmedia.com.br/implementando-o-data-access-object-no-java-ee/33339">https://www.devmedia.com.br/implementando-o-data-access-object-no-java-ee/33339</a></p>
-     <p><a href="https://pt.wikipedia.org/wiki/Objeto_de_acesso_a_dados">https://pt.wikipedia.org/wiki/Objeto_de_acesso_a_dados</a></p>
-     <p><a href="http://www.macoratti.net/11/10/pp_dao1.htm">http://www.macoratti.net/11/10/pp_dao1.htm</a></p>
+<p><a href="https://www.java.com/pt_BR/">https://www.java.com/pt_BR/</a></p>
+<p><a href="https://www.mysql.com/">https://www.mysql.com/</a></p>
+<p><a href="https://spring.io/projects/spring-boot">https://spring.io/projects/spring-boot</a></p>
+<p><a href="https://www.eclipse.org/downloads/">https://www.eclipse.org/downloads/</a></p>
+<p><a href="https://www.devmedia.com.br/implementando-o-data-access-object-no-java-ee/33339">https://www.devmedia.com.br/implementando-o-data-access-object-no-java-ee/33339</a></p>
+<p><a href="https://pt.wikipedia.org/wiki/Objeto_de_acesso_a_dados">https://pt.wikipedia.org/wiki/Objeto_de_acesso_a_dados</a></p>
+<p><a href="http://www.macoratti.net/11/10/pp_dao1.htm">http://www.macoratti.net/11/10/pp_dao1.htm</a></p>
